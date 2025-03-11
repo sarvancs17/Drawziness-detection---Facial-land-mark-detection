@@ -5,15 +5,25 @@ Download the     "shape_predictor_68_face_landmarks.dat" File to run the main co
 
 
 🚀 Drowsiness Detection using Facial Landmark Detection
+
 📌 Overview
+
+
 This project detects driver drowsiness using computer vision and deep learning techniques. By tracking facial landmarks, it determines if the driver is drowsy and triggers an alert.
 
+
 🛠️ Tech Stack
+
+
 Programming Language: Python
 Deep Learning Framework: OpenCV, Dlib
 Libraries Used: NumPy, SciPy, imutils, playsound
 Model: Pre-trained facial landmark detection model
+
+
 🔍 Features
+
+
 ✅ Real-time face detection
 ✅ Eye aspect ratio (EAR) calculation
 ✅ Drowsiness alert system with sound notification
